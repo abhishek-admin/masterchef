@@ -59,23 +59,23 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Michelin Guide',
+    subtitle: 'A prestigious international guidebook that rates restaurants based on the quality of their food.',
   },
   {
     imgUrl: images.award01,
-    title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: "World's 50 Best Restaurants",
+    subtitle: 'An annual list of the best restaurants worldwide, voted on by a panel of industry experts.',
   },
   {
     imgUrl: images.award05,
-    title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'James Beard Awards',
+    subtitle: 'Honors excellence in the food and beverage industry, recognizing chefs, restaurateurs, and writers.',
   },
   {
     imgUrl: images.award03,
-    title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'AA Five Diamond Award',
+    subtitle: 'Given to restaurants that provide exceptional cuisine, service, and atmosphere.',
   },
 ];
 
